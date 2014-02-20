@@ -1,7 +1,7 @@
 Astounding Formatter
 ===================
 
-[Google App Engine Application] (http://astoundingformatter.appspot.com/)
+[Google App Engine application website] (http://astoundingformatter.appspot.com/)
 
 
 A Google App Engine application used to format an XML string into a readable format. 
