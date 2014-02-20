@@ -1,0 +1,20 @@
+application: astoundingformatter
+version: 3
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /css
+  static_dir: static/css
+
+- url: /img
+  static_dir: static/img
+  
+- url: /js
+  static_dir: static/js
+  
+- url: /.*
+  script: main.application
+
+
